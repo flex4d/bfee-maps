@@ -1,4 +1,4 @@
-<h3>Interactive Maps for The Finals</h3>
+<h3>Interactive Maps for BFEE</h3>
 Made for Easter Egg Hunters during lunch by R.Cade <br>
 Now also maintained and improved with help of Ludonope <br>
 <br>
